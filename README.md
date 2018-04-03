@@ -32,6 +32,11 @@ JACOCO - Measures test coverage within the code. It shows how much source code i
 
 
 ![FetcherFactoryTest](https://github.com/Ekskursantas/startCodeForTesting1/blob/master/mock1.png?raw=true)
+
+
+----------
+
+
 ![JokeFetcherTest](https://github.com/Ekskursantas/startCodeForTesting1/blob/master/mock2.png?raw=true)
 ```xml	
 		<dependency>
